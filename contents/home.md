@@ -2,8 +2,9 @@
 
 I'm currently pursuing a Ph.D degree in Magnetoencephalography(MEG) signal analysis at School of Instrumentation and Optoelectronic Engineering, Beihang University, Beijing by 06,2025.
 
-#### Email  
-<code>whqmeg@buaa.edu.cn</code>  
+#### Contacts 
+<code>📧whqmeg@buaa.edu.cn</code> 
+<code>📱+86-188-1095-1353</code> 
 
 
 #### Education  
