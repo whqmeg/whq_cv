@@ -4,7 +4,12 @@ I'm currently pursuing a Ph.D degree in Magnetoencephalography(MEG) signal analy
 
 #### Contacts 
 <code>📧whqmeg@buaa.edu.cn</code> 
-<code>📱+86-188-1095-1353</code> 
+<p><code>📱+86-188-1095-1353</code> 
+
+#### Scholarship Webpage
+ <p>🔗 <a href="https://orcid.org/0000-0001-5728-7418" target="_blank"><i class="fab fa-orcid"></i> ORCID</a> 
+<p> 🔗 <a  href="https://scholar.google.com/citations?user=H8o6P68AAAAJ&hl=zh-TW" target="_blank"><i class="ai ai-google-scholar"></i> Scholar</a></p>
+
 
 
 #### Education  
