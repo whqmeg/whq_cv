@@ -15,11 +15,11 @@ I'm currently pursuing a Ph.D degree in Magnetoencephalography(MEG) signal analy
 #### Education  
 
 **Beihang University (BUAA)**, Ph.D. in Precision Instrument and Machinery (09/2019 - 06/2025)   <br>  
-• Advisors: Res. Weiren Wu (Chief Designer of China Lunar Exploration Program) / Prof. Xiaolin Ning (Chang Jiang Scholar)
-• Awards: First-Class Graduate Scholarship, Merit Student, Top Research Contribution Award 
+<p>• Advisors: Res. Weiren Wu (Chief Designer of China Lunar Exploration Program) / Prof. Xiaolin Ning (Chang Jiang Scholar)
+<p>• Awards: First-Class Graduate Scholarship, Merit Student, Top Research Contribution Award 
 **Nanjing University of Aeronautics and Astronautics**, Bachelor of Engineering (09/2013 – 06/2017)  
-• GPA: 3.2/5.0  
-• Awards: Outstanding Graduate Design, University Distinguished Graduate, Academic Scholarship
+<p>• GPA: 3.2/5.0  
+<p>• Awards: Outstanding Graduate Design, University Distinguished Graduate, Academic Scholarship
 
 #### Research Interests  
 Time-domain univariate analysis and decoding methods for wearable OPM-MEG
